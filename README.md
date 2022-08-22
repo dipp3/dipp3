@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Ted, iam very new to github.
 <!--
 **dipp3/dipp3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
